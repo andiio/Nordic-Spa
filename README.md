@@ -9,7 +9,7 @@ Version
 ==
 1.0
 
-Images can be found on: <a href src="http://www.andi.io/spa/">Spa<\a>
+Images can be found on: <a href src="http://www.andi.io/spa/">Spa</a>
 
 License
 ==
