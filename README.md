@@ -14,8 +14,11 @@ Your also more welcome to go at it and make her better.
 <br>
 For a quick view in 3D, download  <a href="http://www.edrawingsviewer.com/">Edrawings Viewer</a> and open the <a href="https://github.com/andiio/Nordic-Spa/blob/master/Complete_Spa_System.EASM">Complete_Spa_System.EASM</a> file.
 
-***Images can be found on:*** http://andi.io/nordic-spa.html
 
+
+![Image of a Spa](https://raw.githubusercontent.com/andiio/Nordic-Spa/master/images/Complete_Spa_System.JPG)
+
+![Image of a Spa](https://github.com/andiio/Nordic-Spa/blob/master/images/Complete_Spa_System_p.JPG)
 
 Version
 ==
